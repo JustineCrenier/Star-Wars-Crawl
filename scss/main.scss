@@ -36,6 +36,7 @@ body{
 		opacity: 0;
 		animation: debut 6s linear 1s 1 normal;
 		-webkit-animation: debut 6s linear 1s 1 normal;
+		-moz-animation: debut 6s linear 1s 1 normal;
 	}
 
 	img.becode{
@@ -47,6 +48,7 @@ body{
 		// call de l'animation becode
 		animation: becode 4s linear 9s 1 normal;
 		-webkit-animation: becode 4s linear 9s 1 normal;
+		-moz-animation: becode 4s linear 9s 1 normal;
 		transform-origin: 0% 0%;
 		opacity: 0;
 	}
@@ -63,6 +65,7 @@ body{
 		//call de l'animation crawl
     	animation: crawl 23s linear 13s 1 normal;
     	-webkit-animation: crawl 23s linear 13s 1 normal;
+    	-moz-animation: crawl 23s linear 13s 1 normal;
 		transform-origin: center bottom;
     	opacity: 0;
 		
